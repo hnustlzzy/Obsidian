@@ -23,11 +23,14 @@
             "id": "2ded10c8d6ed9c90",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "时间.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": -35,
+                  "y": -110,
+                  "zoom": 0
+                }
               }
             }
           },
@@ -122,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "时间.md",
+                "file": "未命名.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "时间.md",
+                "file": "未命名.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "时间.md"
+                "file": "未命名.canvas"
               }
             }
           }
@@ -183,14 +186,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2ded10c8d6ed9c90",
+  "active": "563fe65ae139d7d9",
   "lastOpenFiles": [
+    "new.md",
     "java.md",
+    "未命名.md",
+    "未命名.canvas",
     "时间.md",
     "2023-10-02.md",
-    "未命名.canvas",
-    "未命名.md",
-    "new.md",
     "未命名 1.canvas",
     "git_install.md",
     "github.md",
