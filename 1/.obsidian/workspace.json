@@ -8,51 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e427878eb11e44ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "java.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ded10c8d6ed9c90",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": -35,
-                  "y": -110,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "ad34cafbc522b536",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c7f7384a0911ad54",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d78d85be8015e2ed",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-10-02.md",
+                "file": "数据库.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.canvas",
+                "file": "数据库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.canvas",
+                "file": "数据库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas"
+                "file": "数据库.md"
               }
             }
           }
@@ -186,14 +155,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "563fe65ae139d7d9",
+  "active": "d78d85be8015e2ed",
   "lastOpenFiles": [
+    "数据库.md",
     "new.md",
-    "java.md",
-    "未命名.md",
     "未命名.canvas",
-    "时间.md",
+    "java.md",
     "2023-10-02.md",
+    "时间.md",
     "未命名 1.canvas",
     "git_install.md",
     "github.md",
