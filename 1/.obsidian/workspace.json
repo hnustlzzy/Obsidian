@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "new.md",
+                "file": "2023-10-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "new.md",
+                "file": "2023-10-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "new.md",
+                "file": "2023-10-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "new.md"
+                "file": "2023-10-02.md"
               }
             }
           }
@@ -171,8 +171,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "563fe65ae139d7d9",
+  "active": "c7f7384a0911ad54",
   "lastOpenFiles": [
+    "未命名.canvas",
     "未命名.md",
     "new.md",
     "java.md",
@@ -180,7 +181,6 @@
     "git_install.md",
     "github.md",
     "id_rsa.pub",
-    "未命名.canvas",
     "2023-10-02.md"
   ]
 }
