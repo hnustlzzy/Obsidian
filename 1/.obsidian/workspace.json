@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "大物.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 844.5
+    "width": 202.5
   },
   "left-ribbon": {
     "hiddenItems": {
