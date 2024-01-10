@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "大物.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -130,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -148,6 +148,7 @@
   },
   "active": "d78d85be8015e2ed",
   "lastOpenFiles": [
+    "Pasted image 20240110133045.png",
     "Pasted image 20240110132816.png",
     "大物.md",
     "Pasted image 20240110132141.png",
