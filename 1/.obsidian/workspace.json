@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库.md",
-                "mode": "source",
+                "file": "大物.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库.md",
+                "file": "大物.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库.md",
+                "file": "大物.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库.md"
+                "file": "大物.md"
               }
             }
           }
@@ -148,7 +148,8 @@
   },
   "active": "d78d85be8015e2ed",
   "lastOpenFiles": [
-    "数据库.md",
+    "Pasted image 20240110132141.png",
+    "大物.md",
     "new.md",
     "未命名.canvas",
     "java.md",
